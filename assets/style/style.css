@@ -81,6 +81,7 @@ body {
   .page-footer
   {
     background-color: #16a2b7;
+   
   }
   footer {
     color:white;
@@ -88,8 +89,6 @@ body {
     background-color: #16a2b7;
     font-family: "Raleway";
     font-size: 400;
-    position: absolute;
-    width: 100%;
     padding:2px
    }
   
